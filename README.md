@@ -32,17 +32,16 @@ I also added some visualizations that provide context to the original dataset.
 - Pie Chart -> Sales share by Product Category
 
 ## 4. Scenario Sheet
-The Scenario Sheet is where I extracted the necessary data for utilizing the **Scenario Manager**.
+The Scenario Sheet is where I extracted the necessary data needed for utilizing the **Scenario Manager**.
 Assuming Total Sales of Clothing is in cell B15 & growth rate is in cell F3, we insert the following formula:
 
 **='2023sales'!B15 * (1 + $F$3)**
 
-*(This is inserted for all three categories and Costs)*
 
-This formula ensures that every time our growth rate changes, our Sales & Costs change accordingly.
+I applied this formula to the rest of the product categories and Total Costs. This formula ensures that every time our growth rate changes, our Sales & Costs change accordingly.
 
 <br>
-Using Scenario Manager, we will create three different scenarios:
+Finally, using Scenario Manager, we will create three different scenarios:
 
 - Best Case Scenario: 10% sales growth.
 - Base Case Scenario: 5% sales growth.
