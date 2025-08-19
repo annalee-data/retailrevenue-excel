@@ -22,10 +22,10 @@ Built an Excel model to forcast 2024 profit for a retail company under three sal
 
 ## 3. Excel Sheet '2023sales'
 After opening the 2023sales [CSV file](2023sales.csv), I added the following variables and row to the dataset:
-- **Total Sales** using the SUM formula *to all sales*.
-- **Total Costs** using the SUM formula *to all costs*.
+- **Total Sales** using the SUM formula *of all sales*.
+- **Total Costs** using the SUM formula *of all costs*.
 - **Total Profit** using the profitability calculation *(Total Sales - Total Costs)*.
-- **Year Total** using the SUM formula *to the whole column*.
+- **Year Total** using the SUM formula *of each column*.
 
 I also added some visualizations that provide context to the original dataset.
 - Bar Chart -> Total Sales by Month
