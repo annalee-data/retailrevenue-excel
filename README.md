@@ -20,14 +20,36 @@ Goal: Support strategic planning with data-driven insights.
     - Staffing Costs (salaries, wages).
 - Source: Dummy dataset created by me.
 
-## 3. Methodology
-- Profit Caclulation: Revenue - Total Costs.
-- Forecasting:
-- Scenario Analysis:
-    - Best Case: 10% sales growth
-    - Base Case: 5% sales growth
-    - Worst Case: -5% sales growth
-- Visualization:
-    - Bar Chart -> Total Sales by Month
-    - Pie Chart -> Sales Share by Product Category
-    - Scenario Summary -> Scenario comparison
+## 3. Excel Sheet '2023sales'
+After opening the 2023sales [CSV file](2023sales.csv), I added the following variables and row to the dataset:
+- **Total Sales** using the SUM formula *to all sales*.
+- **Total Costs** using the SUM formula *to all costs*.
+- **Total Profit** using the profitability calculation *(Total Sales - Total Costs)*.
+- **Year Total** using the SUM formula *to the whole column*.
+
+I also added some visualizations that provide context to the original dataset.
+- Bar Chart -> Total Sales by Month
+- Pie Chart -> Sales share by Product Category
+
+## 4. Scenario Sheet
+The Scenario Sheet is where I extracted the necessary data for utilizing the **Scenario Manager**.
+Assuming Total Sales of Clothing is in cell B15 & growth rate is in cell F3, we insert the following formula:
+**='2023sales'!B15 * (1 + $F$3)**
+
+*This is inserted for all three categories and Costs*
+This formula ensures that every time our growth rate changes, our Sales & Costs change accordingly.
+
+Using Scenario Manager, we will create three different scenarios:
+- Best Case Scenario: 10% sales growth.
+- Base Case Scenario: 5% sales growth.
+- Worst Case Scenario: -5% sales growth.
+Our growth rate (cell F3) is going to be our changing cell. When we click 'Show', the chosen scenario will impact the growth rate cell, changing our whole chart.
+
+
+ 
+## 4. Results / Insights
+-  Profit under the base case is expected to grow by 5%.
+-  Best-case scenario highlights strong margin growth in Grocery sales.
+-  Worst-case scenario shows a big net loss.
+<br>
+**Focus on scaling high-margin categories and prepare cost-control strategies in case of revenue decline.**
