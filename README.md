@@ -9,7 +9,7 @@ Built an Excel model to forcast 2024 profit for a retail company under three sal
 - Retail company needs to forecast sales, costs, and profit for next year.
 - Management wants to know how different sales growth scenarios (best, base, worst) affect profit.
 
-⭐️Goal: Support strategic planning with data-driven insights.
+⭐️ Goal: Support strategic planning with data-driven insights.
 
 ## 2. Dataset
 - 12 months of historical sales & cost data from 2023.
