@@ -34,16 +34,21 @@ I also added some visualizations that provide context to the original dataset.
 ## 4. Scenario Sheet
 The Scenario Sheet is where I extracted the necessary data for utilizing the **Scenario Manager**.
 Assuming Total Sales of Clothing is in cell B15 & growth rate is in cell F3, we insert the following formula:
+
 **='2023sales'!B15 * (1 + $F$3)**
 
-*This is inserted for all three categories and Costs*
+*(This is inserted for all three categories and Costs)*
+
 This formula ensures that every time our growth rate changes, our Sales & Costs change accordingly.
 
+<br>
 Using Scenario Manager, we will create three different scenarios:
+
 - Best Case Scenario: 10% sales growth.
 - Base Case Scenario: 5% sales growth.
 - Worst Case Scenario: -5% sales growth.
-Our growth rate (cell F3) is going to be our changing cell. When we click 'Show', the chosen scenario will impact the growth rate cell, changing our whole chart.
+
+Our growth rate (cell F3) is going to be our changing cell. When we click 'Show', the chosen scenario's sales growth % will apply to the growth rate cell, impacting our whole sheet into the scenario selected.
 
 
  
