@@ -53,7 +53,7 @@ Our growth rate (cell F3) is going to be our changing cell. When we click 'Show'
  
 ## 4. Results / Insights
 -  Profit under the base case is expected to grow by 5%.
--  Best-case scenario highlights strong margin growth in Grocery sales.
+-  Every scenario highlights that Grocery Sales holds the biggest margin.
 -  Worst-case scenario shows a big net loss.
 <br>
 **Focus on scaling high-margin categories and prepare cost-control strategies in case of revenue decline.**
