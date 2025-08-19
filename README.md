@@ -1,15 +1,31 @@
 # Revenue Forecasting (Excel)
 
-*Revenue & Cost Forecasting for a Retail Company*
+*Retail Sales & Revenue Forecasting in Excel*
 
 Built an Excel model to forcast 2024 profit for a retail company under three sales growth scenarios. 
 <br>
 
-### Business Problem
-Goal:
-<br>
+## 1. Business Problem
+- Retail company needs to forecast sales, costs, and profit for next year.
+- Management wants to know how different sales growth scenarios (best, base, worst) affect profit.
 
-### Dataset
-- 12 months of historical sales & cost data from 2023
+Goal: Support strategic planning with data-driven insights.
+
+## 2. Dataset
+- 12 months of historical sales & cost data from 2023.
 - Variables include:
-    * Sales by product category (Electronics, Clothes, 
+    - Sales by product category (Electronics, Clothing, Grocery).
+    - Fixed Costs (rent, utilities, etc.).
+    - Variable Costs (based on sales).
+    - Staffing Costs (salaries, wages).
+- Source: Dummy dataset created by me.
+
+## 3. Methodology
+- Excel Formulas: =SUM,
+- Profit Caclulation: Revenue - Total Costs.
+- Forecasting:
+- Scenario Analysis:
+   - Best Case:
+   - Base Case:
+   - Worst Case:
+- Visualizaiton: Bar chart
