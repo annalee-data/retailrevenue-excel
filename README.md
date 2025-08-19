@@ -24,7 +24,10 @@ Goal: Support strategic planning with data-driven insights.
 - Profit Caclulation: Revenue - Total Costs.
 - Forecasting:
 - Scenario Analysis:
-   - Best Case: 10% sales growth
-   - Base Case: 5% sales growth
-   - Worst Case: -5% sales growth
-- Visualizaiton: Bar chart, Pie chart, Scenario Summary
+    - Best Case: 10% sales growth
+    - Base Case: 5% sales growth
+    - Worst Case: -5% sales growth
+- Visualization:
+    - Bar Chart -> Total Sales by Month
+    - Pie Chart -> Sales Share by Product Category
+    - Scenario Summary -> Scenario comparison
