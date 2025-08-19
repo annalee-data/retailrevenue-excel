@@ -21,11 +21,10 @@ Goal: Support strategic planning with data-driven insights.
 - Source: Dummy dataset created by me.
 
 ## 3. Methodology
-- Excel Formulas: =SUM,
 - Profit Caclulation: Revenue - Total Costs.
 - Forecasting:
 - Scenario Analysis:
-   - Best Case:
-   - Base Case:
-   - Worst Case:
-- Visualizaiton: Bar chart
+   - Best Case: 10% sales growth
+   - Base Case: 5% sales growth
+   - Worst Case: -5% sales growth
+- Visualizaiton: Bar chart, Pie chart, Scenario Summary
