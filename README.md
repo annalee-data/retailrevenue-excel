@@ -12,6 +12,7 @@ Built an Excel model to forcast 2024 profit for a retail company under three sal
 ⭐️ Goal: Support strategic planning with data-driven insights.
 
 ## 2. Dataset
+2023sales CSV file is [here](2023sales.csv)
 - 12 months of historical sales & cost data from 2023.
 - Variables include:
     - Sales by product category (Electronics, Clothing, Grocery).
@@ -21,7 +22,7 @@ Built an Excel model to forcast 2024 profit for a retail company under three sal
 - Source: Dummy dataset created by me.
 
 ## 3. Excel Sheet '2023sales'
-After opening the 2023sales [CSV file](2023sales.csv), I added the following variables and row to the dataset:
+After opening the dataset in Excel, I added the following variables and row to the dataset:
 - **Total Sales** using the SUM formula *of all sales*.
 - **Total Costs** using the SUM formula *of all costs*.
 - **Total Profit** using the profitability calculation *(Total Sales - Total Costs)*.
