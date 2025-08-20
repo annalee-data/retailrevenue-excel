@@ -1,4 +1,4 @@
-# Revenue Forecasting (Excel)
+# 📈 Revenue Forecasting (Excel)
 
 *Retail Sales & Revenue Forecasting in Excel*
 
