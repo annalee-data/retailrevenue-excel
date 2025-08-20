@@ -75,3 +75,7 @@ Our growth rate (cell F3) is going to be our changing cell. When we click 'Show'
 
 ## 6. Access
 Due to the Scenario Manager feature, the Excel file attached [here](RevenueAnalysis.xlsx) does not open through Excel website. In order to interact with the Excel file, you must download the raw file and open through the Microsoft Excel app.
+<br>
+<br>
+
+### Back to Portfolio Hub click [here](https://github.com/annalee-data/portfolio/blob/main/README.md)
