@@ -74,4 +74,4 @@ Our growth rate (cell F3) is going to be our changing cell. When we click 'Show'
 <br>
 
 ## 6. Access
-Due to the Scenario Manager feature, the Excel sheet I attached  cannot open on Excel website. In order to interact with the Excel file, you must download the raw file and open through the Microsoft Excel app.
+Due to the Scenario Manager feature, the Excel sheet I attached [here](Revenue Analysis.xlsx) cannot open on Excel website. In order to interact with the Excel file, you must download the raw file and open through the Microsoft Excel app.
