@@ -49,7 +49,7 @@ Assuming Total Sales of Clothing is in cell B15 & growth rate is in cell F3, we 
 **='2023sales'!B15 * (1 + $F$3)**
 
 
-I applied this formula to the rest of the product categories and Total Costs. This formula ensures that every time our growth rate changes, our Sales & Costs change accordingly.
+I applied this formula to the rest of the product categories and Total Costs. This formula ensures that every time our growth rate changes, our Sales & Costs change accordingly. Profit calculation was inserted in the Scenario Proft cell, (Total Sales - Scenario Costs).
 
 <br>
 Finally, using Scenario Manager, we will create three different scenarios:
