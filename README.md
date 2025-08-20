@@ -22,6 +22,8 @@ Built an Excel model to forcast 2024 profit for a retail company under three sal
 - Source: Dummy dataset created by me.
 
 ## 3. Excel Sheet '2023sales'
+<img width="969" height="748" alt="스크린샷 2025-08-20 103347" src="https://github.com/user-attachments/assets/52edd3f8-69d5-4bb2-984f-c64cb48826ce" />
+
 After opening the dataset in Excel, I added the following variables and row to the dataset:
 - **Total Sales** using the SUM formula *of all sales*.
 - **Total Costs** using the SUM formula *of all costs*.
@@ -33,6 +35,8 @@ I also added some visualizations that provide context to the original dataset.
 - Pie Chart -> Sales share by Product Category
 
 ## 4. Scenario Sheet
+<img width="730" height="169" alt="스크린샷 2025-08-20 103446" src="https://github.com/user-attachments/assets/8eec5208-128e-4de8-a3bc-4d47f4970387" />
+
 The Scenario Sheet is where I extracted the necessary data needed for utilizing the **Scenario Manager**.
 Assuming Total Sales of Clothing is in cell B15 & growth rate is in cell F3, we insert the following formula:
 
@@ -49,6 +53,7 @@ Finally, using Scenario Manager, we will create three different scenarios:
 - Worst Case Scenario: -5% sales growth.
 
 Our growth rate (cell F3) is going to be our changing cell. When we click 'Show', the chosen scenario's sales growth % will apply to the growth rate cell, impacting our whole sheet into the scenario selected.
+<img width="654" height="317" alt="스크린샷 2025-08-20 103414" src="https://github.com/user-attachments/assets/af98ea27-2628-49fc-8407-fbfab6a42cb2" />
 
 
  
@@ -58,4 +63,7 @@ Our growth rate (cell F3) is going to be our changing cell. When we click 'Show'
 -  Worst-case scenario shows a big net loss.
 
 
-**Focus on scaling high-margin categories and prepare cost-control strategies in case of revenue decline.**
+⭐️ **Focus on scaling high-margin categories and prepare cost-control strategies in case of revenue decline.**
+
+## 6. Access
+Due to the Scenario Manager feature, the Excel sheet I attached [here]()
