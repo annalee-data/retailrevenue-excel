@@ -11,6 +11,8 @@ Built an Excel model to forcast 2024 profit for a retail company under three sal
 
 ⭐️ Goal: Support strategic planning with data-driven insights.
 
+<br>
+
 ## 2. Dataset
 2023sales CSV file is [here](2023sales.csv)
 - 12 months of historical sales & cost data from 2023.
@@ -20,6 +22,8 @@ Built an Excel model to forcast 2024 profit for a retail company under three sal
     - Variable Costs (based on sales).
     - Staffing Costs (salaries, wages).
 - Source: Dummy dataset created by me.
+
+<br>
 
 ## 3. Excel Sheet '2023sales'
 <img width="969" height="748" alt="스크린샷 2025-08-20 103347" src="https://github.com/user-attachments/assets/52edd3f8-69d5-4bb2-984f-c64cb48826ce" />
@@ -33,6 +37,8 @@ After opening the dataset in Excel, I added the following variables and row to t
 I also added some visualizations that provide context to the original dataset.
 - Bar Chart -> Total Sales by Month
 - Pie Chart -> Sales share by Product Category
+
+<br>
 
 ## 4. Scenario Sheet
 <img width="730" height="169" alt="스크린샷 2025-08-20 103446" src="https://github.com/user-attachments/assets/8eec5208-128e-4de8-a3bc-4d47f4970387" />
@@ -55,8 +61,8 @@ Finally, using Scenario Manager, we will create three different scenarios:
 Our growth rate (cell F3) is going to be our changing cell. When we click 'Show', the chosen scenario's sales growth % will apply to the growth rate cell, impacting our whole sheet into the scenario selected.
 <img width="654" height="317" alt="스크린샷 2025-08-20 103414" src="https://github.com/user-attachments/assets/af98ea27-2628-49fc-8407-fbfab6a42cb2" />
 
+<br>
 
- 
 ## 5. Results / Insights
 -  Profit under the base case is expected to grow by 5%.
 -  Every scenario highlights that Grocery Sales holds the biggest margin.
@@ -65,5 +71,7 @@ Our growth rate (cell F3) is going to be our changing cell. When we click 'Show'
 
 ⭐️ **Focus on scaling high-margin categories and prepare cost-control strategies in case of revenue decline.**
 
+<br>
+
 ## 6. Access
-Due to the Scenario Manager feature, the Excel sheet I attached [here]()
+Due to the Scenario Manager feature, the Excel sheet I attached [here](Revenue Analysis.xlsx) cannot open on Excel website. In order to interact with the Excel file, you must download the raw file and open through the Microsoft Excel app.
